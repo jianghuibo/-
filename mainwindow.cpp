@@ -7,6 +7,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     //分支提交
+    //我是分支，第二次提交
 }
 
 MainWindow::~MainWindow()
